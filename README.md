@@ -11,6 +11,6 @@ This mod has one simple license rule: Do whatever you want.
 
 ## Building the mod
 All releases for this mod are hosted on github or curseforge. If you want to build it yourself, here are the instructions.
-1.  Clone the mod using ```git clone https://github.com/jk-5/NoDebug.git``` or download the zip on the right
-2.  Open a terminal in the directory and run ```./gradlew setupCIWorkspace build```
-3.  The built jar will appear in ```build/libs/```
+* Clone the mod using ```git clone https://github.com/jk-5/NoDebug.git``` or download the zip on the right
+* Open a terminal in the directory and run ```./gradlew setupCIWorkspace build```
+* The built jar will appear in ```build/libs/```
