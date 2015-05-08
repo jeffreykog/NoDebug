@@ -19,12 +19,11 @@ buildscript {
 apply plugin: 'scala'
 apply plugin: 'fml'
 
-group = 'jk_5.mods'
-version = '1.0.0'
+group = 'nl.jk_5.mods'
+version = '1.0.1'
 
 minecraft {
-    version = '1.7.2-7.2.196.910'
-    assetDir = 'runtime/client/assets'
+    version = '1.7.10-7.10.88.1024'
 }
 
 jar.version = minecraft.version + '-' + project.version
