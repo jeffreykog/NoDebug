@@ -20,10 +20,14 @@ apply plugin: 'scala'
 apply plugin: 'fml'
 
 group = 'nl.jk_5.mods'
-version = '1.0.1'
+version = '1.0.2'
 
 minecraft {
-    version = '1.7.10-7.10.88.1024'
+    version = '1.8-8.0.81.1079'
 }
 
 jar.version = minecraft.version + '-' + project.version
+
+jar.manifest {
+    attributes "ModSide": "CLIENT"
+}

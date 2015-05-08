@@ -2,7 +2,7 @@
     {
         "modId": "NoDebug",
         "name": "NoDebug",
-        "version": "1.0",
+        "version": "1.0.2",
         "description": "A very simple mod that forces the F3 debug information to be disabled",
         "authorList": [
             "jk-5"
