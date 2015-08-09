@@ -3,7 +3,7 @@
 NoDebug is a simple mod that forces the F3 debug information to be hidden.
 If you think this information is cheaty and should not be used, this mod is for you.
 
-[http://minecraft.curseforge.com/mc-mods/220601-nodebug](Curse project page)
+(http://minecraft.curseforge.com/mc-mods/220601-nodebug)[Curse project page]
 
 ## Modpack permissions
 Feel free to include this mod in any modpack. You don't need to ask me for permission, but it would be nice when you tell me you are including it.
